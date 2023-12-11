@@ -23,6 +23,6 @@ Here you will find some of my projects on my journey through the world of techno
 ## Platforms I recommend for learning:
 -UDEMY: [Learn from On-Demand Course](https://www.udemy.com/)  
 -DIO: [Code your global future now!](https://www.dio.me/)  
--PREPLY: [Unlock your potential with the best language tutors.](https://preply.com/)
+-PREPLY: [Unlock your potential with the best language tutors.](https://preply.com/pt/?pref=OTgwNDYwNA==&id=1702333573.772969)
 
 ## CONTACT ME:  [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gilmar-alberto-b48702197)
