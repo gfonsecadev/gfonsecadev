@@ -1,7 +1,7 @@
 # Hi everyone ✋
 Welcome to my profile 🤝,  
 Here you will find some of my projects on my journey through the world of technology.  
-##About me:
+## About me:
 -I have a degree in Systems Analysis and Development and a postgraduate degree in Data Science from Unicesumar University.
 I studied some languages ​​such as Java, Html, Css, JavaScript, Php, Python, Sql and others.
 At the moment I have been studying in more depth some technologies regarding mobile development and web development
