@@ -22,7 +22,8 @@ At the moment I have been studying in more depth some technologies regarding mob
   <span><img alt="JUPYTER" src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white"></span>
 </div></br>
 
-![gfonsecadev's GitHub stats](https://github-readme-stats.vercel.app/api?username=gfonsecadev&show_icons=true&theme=radical)
+![gfonsecadev's GitHub stats](https://github-readme-stats.vercel.app/api?username=gfonsecadev&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gfonsecadev&layout=compact)
 
 ## Platforms I recommend for learning:
 -UDEMY: [Learn from On-Demand Course](https://www.udemy.com/)  
