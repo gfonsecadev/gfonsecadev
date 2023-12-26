@@ -23,7 +23,7 @@ At the moment I have been studying in more depth some technologies regarding mob
 </div></br>
 
 <span>![gfonsecadev's GitHub stats](https://github-readme-stats.vercel.app/api?username=gfonsecadev&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gfonsecadev&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gfonsecadev&layout=donut-vertical)
 </span>
 
 ## Platforms I recommend for learning:
