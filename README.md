@@ -20,7 +20,7 @@ At the moment I have been studying in more depth some technologies regarding mob
   <span><img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></span>
   <span><img alt="SQL" src="https://img.shields.io/badge/SQL-003B57.svg?style=for-the-badge&logo=SQL&logoColor=white"></span>
   <span><img alt="JUPYTER" src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white"></span>
-</div></br>
+</div></br> 
 
 ![gfonsecadev's GitHub stats](https://github-readme-stats.vercel.app/api?username=gfonsecadev&show_icons=true&theme=radical)
 
