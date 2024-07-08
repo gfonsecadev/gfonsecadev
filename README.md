@@ -25,7 +25,7 @@ At the moment I have been studying in more depth some technologies regarding mob
 ![gfonsecadev's GitHub stats](https://github-readme-stats.vercel.app/api?username=gfonsecadev&show_icons=true&theme=radical)
 
 ## Most used languages in my projects:  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gfonsecadev&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gfonsecadev&layout=compact&langs_count=20)
 
 
 ## Platforms I recommend for learning:
