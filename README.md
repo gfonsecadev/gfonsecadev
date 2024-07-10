@@ -7,7 +7,7 @@ I studied some languages ​​such as Java, Html, Css, JavaScript, Php, Python,
 At the moment I have been studying in more depth some technologies regarding mobile development and web development
 
 ## Technologies that I use in my daily routine
-<div>
+<div> 
   <span><img alt="HTLM" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"></span>
   <span><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"></span>
   <span><img alt="BOOTSTRAP" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></span>
