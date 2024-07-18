@@ -1,5 +1,7 @@
 # Hi everyone ✋
-Welcome to my profile 🤝,  
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2000&pause=&color=F7D7F6&multiline=true&width=435&height=60&lines=-Welcome+to+my+profile+%F0%9F%A4%9D;My+name+is+Gilmar)](https://git.io/typing-svg)
+
 Here you will find some of my projects on my journey through the world of technology.  
 ## About me:
 -I have a degree in Systems Analysis and Development and a postgraduate degree in Data Science from Unicesumar University.
