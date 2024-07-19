@@ -1,11 +1,13 @@
 # Hi everyone ✋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2000&pause=&color=F7D7F6&multiline=true&width=435&height=60&lines=-Welcome+to+my+profile+%F0%9F%A4%9D;My+name+is+Gilmar)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2000&pause=&color=F7D7F6&center=true&vCenter=true&multiline=true&width=435&height=40&lines=-Welcome+to+my+profile+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
-Here you will find some of my projects on my journey through the world of technology.  
+<hr/>
+
+### Here you will find some of my projects on my journey through the world of technology.  
 ## About me:
--I have a degree in Systems Analysis and Development and a postgraduate degree in Data Science from Unicesumar University.
-I studied some languages ​​such as Java, Html, Css, JavaScript, Php, Python, Sql and others.
+-My name is Gilmar, I am graduated in Systems Analysis and Development and have a postgraduate degree in Data Science from Unicesumar University.
+I have learned some technologies ​​such as Java, Html, Css, JavaScript, Php, Python, Sql and others.
 At the moment I have been studying in more depth some technologies regarding mobile development and web development
 
 ## Technologies that I use in my daily routine
