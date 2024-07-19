@@ -5,14 +5,15 @@
 <hr/>
 
 ### Here you will find some of my projects on my journey through the world of technology.  
+
 ## About me:
--My name is Gilmar, I am graduated in Systems Analysis and Development and have a postgraduate degree in Data Science from Unicesumar University.
-I have learned some technologies ​​such as Java, Html, Css, JavaScript, Php, Python, Sql and others.
-At the moment I have been studying in more depth some technologies regarding mobile development and web development
+- My name is Gilmar, I have a degree in Systems Analysis and Development and a postgraduate degree in Data Science from Unicesumar University. 
+- I have learned technologies such as Java, HTML, CSS, JavaScript, PHP, Python, SQL, and others.
+- At the moment, I have been studying more in-depth some technologies regarding mobile development and web development.
 
 ## Technologies that I use in my daily routine
 <div> 
-  <span><img alt="HTLM" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"></span>
+  <span><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"></span>
   <span><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"></span>
   <span><img alt="BOOTSTRAP" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></span>
   <span><img alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"></span>
@@ -31,13 +32,13 @@ At the moment I have been studying in more depth some technologies regarding mob
 ## Most used languages in my projects:  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gfonsecadev&layout=compact&langs_count=20)
 
-
 ## Platforms I recommend for learning:
--UDEMY: [Learn from On-Demand Course](https://www.udemy.com/)  
--DIO: [Code your global future now!](https://www.dio.me/)  
--PREPLY: [Unlock your potential with the best language tutors.](https://preply.com/pt/?pref=OTgwNDYwNA==&id=1702333573.772969)
+- **UDEMY**: [Learn from On-Demand Course](https://www.udemy.com/)
+- **DIO**: [Code your global future now!](https://www.dio.me/)
+- **PREPLY**: [Unlock your potential with the best language tutors](https://preply.com/pt/?pref=OTgwNDYwNA==&id=1702333573.772969)
 
-## CONTACT ME:  [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gilmar-alberto-b48702197)
+## Contact me:
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gilmar-alberto-b48702197)
 
 <div>
 <a href="https://visitcount.itsvg.in">
