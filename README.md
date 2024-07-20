@@ -8,8 +8,8 @@
 
 ## About me:
 - My name is Gilmar, I have a degree in Systems Analysis and Development and a postgraduate degree in Data Science from Unicesumar University. 
-- I have learned technologies such as Java, HTML, CSS, JavaScript, PHP, Python, SQL, and others.
-- At the moment, I have been studying more in-depth some technologies regarding mobile development and web development.
+- I have acquired proficiency in several technologies, including Java, HTML, CSS, JavaScript, PHP, Python, SQL, among others.
+- Currently, I am delving deeper into advanced topics in both mobile and web development.
 
 ## Technologies that I use in my daily routine
 <div> 
