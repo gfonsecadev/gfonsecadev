@@ -1,10 +1,10 @@
 # Hi everyone ✋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=4000&pause=&color=e5ecf2&center=true&vCenter=true&multiline=true&width=435&height=40&lines=-+Welcome+to+my+profile+%F0%9F%A4%9D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2500&pause=&color=e5ecf2&center=true&vCenter=true&multiline=true&width=435&height=40&lines=-+Welcome+to+my+profile+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
 <hr/>
 
-### Here you will find some of my projects on my journey through the world of technology.  
+### My name is Gilmar, and here you will find a selection of projects that showcase my journey and accomplishments in the field of technology.
 
 ## About me:
 - My name is Gilmar, I have a degree in Systems Analysis and Development and a postgraduate degree in Data Science from Unicesumar University. 
