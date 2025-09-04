@@ -40,8 +40,4 @@
 ## Contact me:
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gilmar-alberto-b48702197)
 
-<div>
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=gfonsecadev&label=Profile%20Views&color=1&icon=1&pretty=true" />
-</a>
-</div>
+
